@@ -306,8 +306,8 @@ The training pipeline auto-generates four plots in `./plots/`:
 
 ## 👤 Author
 
-**[Your Name]** — BCA Student  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Naveen Kumar** — BCA Student  
+[GitHub](https://github.com/INSxNaveen) · [LinkedIn](www.linkedin.com/in/naveen-kumar-5552b2317)
 
 ---
 
